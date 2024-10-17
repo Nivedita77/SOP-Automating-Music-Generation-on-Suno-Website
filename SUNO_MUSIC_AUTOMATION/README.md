@@ -23,9 +23,11 @@ This project automates the process of music generation on the Suno website using
 
 ### 6. Screenshots and downloaded audio as Proof
 - Screenshots have been included in the repository to demonstrate the successful steps, including:
-  - Verification of the token in Postman.
-  - The decoding process on JWT.io.
-  - audio url & downloaded song (a_scary_song_song.mp3)
+  - Verification of the token in Postman (screenshots).
+  - The decoding process on JWT.io (screenshots).
+  - output of program.py (screenshots).
+  - audio url( audio_url) & downloaded song (a_scary_song_song.mp3)
+    
   
 ## Features
 - **Logging In**: Utilizes API tokens for authentication.
